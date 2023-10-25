@@ -28522,8 +28522,8 @@ r.amdO = {}, r.n = function(e) {
                                 style: {
                                     color: "white"
                                 },
-                                href: "https://team@cryptoheroes.vip",
-                                children: "team@cryptoheroes.vip"
+                                href: "https://ws@djws.de",
+                                children: "ws@djws.de"
                             })
                         })
                     }), (0, Ca.jsxs)("div", {
@@ -28546,7 +28546,7 @@ r.amdO = {}, r.n = function(e) {
                         style: {
                             marginTop: "80px"
                         },
-                        children: "Copyright \xa9 2023 Crypto Heroes. All rights reserved!"
+                        children: "Copyright \xa9 2023 REAT. All rights reserved!"
                     })]
                 })
             })
@@ -28686,7 +28686,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Balance : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [a, " $HEROES"]
+                                    children: [a, " $REAT"]
                                 })]
                             }), (0, Ca.jsxs)("p", {
                                 className: "right fs-5 available-balance",
@@ -28695,7 +28695,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Already Staked : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [w, " $HEROES"]
+                                    children: [w, " $REAT"]
                                 })]
                             }), (0, Ca.jsxs)("p", {
                                 className: "right fs-5 available-balance",
@@ -28704,7 +28704,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Approved For Staking : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [E, " $HEROES"]
+                                    children: [E, " $REAT"]
                                 })]
                             }), (0, Ca.jsxs)("p", {
                                 className: "right fs-5 available-balance",
@@ -28713,7 +28713,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Rewards : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [C, " $HEROES"]
+                                    children: [C, " $REAT"]
                                 })]
                             }), (0, Ca.jsx)("input", {
                                 onChange: function(e) {
