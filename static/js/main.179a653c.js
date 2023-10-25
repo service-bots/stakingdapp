@@ -28456,23 +28456,6 @@ r.amdO = {}, r.n = function(e) {
                             className: "main-logo"
                         })
                     }), (0, Ca.jsx)("div", {
-                        style: {
-                            flexGrow: 2
-                        },
-                        className: "nav-container",
-                        children: (0, Ca.jsxs)("nav", {
-                            className: "container fs-4 cen",
-                            children: [(0, Ca.jsx)(De, {
-                                to: "https://cryptoheroesnet-4855faf89c52e69809cab4f.webflow.io/",
-                                className: "mx-3",
-                                children: "Crypto Heros"
-                            }), (0, Ca.jsx)(De, {
-                                to: "/",
-                                className: "mx-3",
-                                children: "Home"
-                            })]
-                        })
-                    }), (0, Ca.jsx)("div", {
                         className: "flex connect-button",
                         children: (0, Ca.jsx)("div", {
                             className: "sm-cen py-3 w-full",
@@ -28498,21 +28481,6 @@ r.amdO = {}, r.n = function(e) {
                         children: (0, Ca.jsx)("span", {
                             className: "gradient-text",
                             children: "CONTACT US"
-                        })
-                    }), (0, Ca.jsx)("div", {
-                        style: {
-                            flexGrow: 2
-                        },
-                        className: " cen",
-                        children: (0, Ca.jsx)("a", {
-                            href: "https://cryptoheroesnet-4855faf89c52e69809cab4f.webflow.io/",
-                            children: (0, Ca.jsx)("img", {
-                                src: "/logo.png",
-                                alt: "logo",
-                                style: {
-                                    width: "300px"
-                                }
-                            })
                         })
                     }), (0, Ca.jsx)("div", {
                         className: "container",
@@ -28636,7 +28604,7 @@ r.amdO = {}, r.n = function(e) {
                     children: [(0, Ca.jsx)("div", {
                         children: (0, Ca.jsx)("h1", {
                             className: "fs-9 b ",
-                            children: "Staking Crypto Heros"
+                            children: "Staking REAT"
                         })
                     }), C && C > 0 && (0, Ca.jsx)("section", {
                         className: "my-5 mb-5",
@@ -28675,7 +28643,7 @@ r.amdO = {}, r.n = function(e) {
                                 children: "Minimum staking period to earn reward is 24 hours"
                             }), (0, Ca.jsx)("p", {
                                 className: "cen fs-5",
-                                children: "Yearly APY: 200%"
+                                children: "Yearly APY: 12%"
                             })]
                         }), (0, Ca.jsxs)("div", {
                             className: "stacking-amount mt-4",
